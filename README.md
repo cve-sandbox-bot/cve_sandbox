@@ -4,15 +4,15 @@ This repository aims to have all the existing CVEs (obtained from [Trickest Repo
 
 ## Functioning sandboxes/PoCs for Hot CVEs in this repository:
 
-[Jenkins - CVE-2024-23897](https://github.com/afonsovitorio/cve_sandbox/tree/main/2024/CVE-2024-23897)
+[Jenkins - CVE-2024-23897](https://github.com/cve-sandbox-bot/cve_sandbox/tree/main/2024/CVE-2024-23897)
 
-[Confluence - CVE-2023-22527](https://github.com/afonsovitorio/cve_sandbox/tree/main/2023/CVE-2023-22527)
+[Confluence - CVE-2023-22527](https://github.com/cve-sandbox-bot/cve_sandbox/tree/main/2023/CVE-2023-22527)
 
-[Apache ActiveMQ OpenWire Protocol - CVE-2023-46604](https://github.com/afonsovitorio/cve_sandbox/tree/main/2023/CVE-2023-46604)
+[Apache ActiveMQ OpenWire Protocol - CVE-2023-46604](https://github.com/cve-sandbox-bot/cve_sandbox/tree/main/2023/CVE-2023-46604)
 
-[Ivanti Connect Secure - CVE-2024-21893](https://github.com/afonsovitorio/cve_sandbox/tree/main/2024/CVE-2024-21893)
+[Ivanti Connect Secure - CVE-2024-21893](https://github.com/cve-sandbox-bot/cve_sandbox/tree/main/2024/CVE-2024-21893)
 
-[ownCloud - CVE-2023-49103](https://github.com/afonsovitorio/cve_sandbox/tree/main/2023/CVE-2023-49103)
+[ownCloud - CVE-2023-49103](https://github.com/cve-sandbox-bot/cve_sandbox/tree/main/2023/CVE-2023-49103)
 
 
 
